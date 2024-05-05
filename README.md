@@ -6,9 +6,11 @@
 Here are some ideas to get you started:
 -->
 🔭 Open for new opportunities as a System Engineer, Test Engineer or 5G Network Engineer<br/>
+💻 Worked as Test Engineer at [Nokia](https://www.nokia.com/)<br/>
 👩🏻‍🎓 Studied Wireless Engineering at [University of Oulu, Finland](https://www.oulu.fi/fi)<br/>
 💬 Currently, learning about Python & Robot Framework<br/>
 👩🏻‍💻 Programming journey at [Leetcode](https://leetcode.com/u/Junnaid966/)<br/>
+
 
 
 
