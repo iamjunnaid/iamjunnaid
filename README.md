@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning **Python and Robot Framework**
 
-💻 Worked as Test Engineer [Nokia](https://www.nokia.com/)
+💻 Worked as Test Engineer at [Nokia](https://www.nokia.com/)
 
 👩🏻‍🎓 Studied Wireless Engineering [University of Oulu, Finland](https://www.oulu.fi/)
 
