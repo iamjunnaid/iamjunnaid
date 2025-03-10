@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning **Python and Robot Framework**
 
-💻 Worked as Test Engineer at [Nokia](https://www.nokia.com/)
+💻 Working as Test Automation Engineer at [KONE](https://www.kone.com/)
 
 👩🏻‍🎓 Studied Wireless Engineering [University of Oulu, Finland](https://www.oulu.fi/)
 
