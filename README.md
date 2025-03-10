@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Junnaid Iqbal</h1>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
 
-🔭 Open for new opportunities as **Test Engineer/ System Engineer or Similar domains**
+[🔭 Open for new opportunities as **Test Engineer/ System Engineer or Similar domains**]: # 
 
 🌱 I’m currently learning **Python and Robot Framework**
 
